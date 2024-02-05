@@ -5,7 +5,9 @@
 👨🏻‍💻 Software developer sharing about my journey and learning in tech<br/>
 📚 Studied [Sociology](https://drive.google.com/drive/folders/1mudqafJoQvpl5yoR0A1962ZMEeaby6Dl?usp=drive_link) at the University of Gazi, Turkey<br/>
 🧑🏼‍🚒 As a member of the European Solidarity Corps; I take part in voluntary projects.<br/>
-🧑🏻‍🏫🧿 Currently learning about data analitics and [dataviz](https://pudding.cool/2018/08/pockets/)<br/>
+👨🏻‍💻 There is always something new to learn about coding. I'm doing my best. <br/>
+🧑🏻‍🏫🧿 After finishing Fullstack Software Developer Course in [Boolean UK](https://boolean.co.uk/course/full-time-software-development-online-course); currently learning about data analytics and [datayiz](https://pudding.cool/2018/08/pockets/)
+<br/>
 
 <!-- Github Stats -->
 
